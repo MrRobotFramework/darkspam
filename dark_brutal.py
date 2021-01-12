@@ -35,7 +35,7 @@ def baner():
                                 \033[95m﹋﹋﹋﹋﹋
 \033[92;1m
 ──▄▀▀▀▄───────────────
-Gunakan Dengan Bijak
+The quieter you become, the more you are able to hear 
 ──█───█───────────────
 ─███████─────────▄▀▀▄─
 ░██─▀─██░░█▀█▀▀▀▀█░░█░
@@ -294,19 +294,23 @@ if __name__=="__main__":
           kata("\033[92;1m╔═══════════════════════════════╗")
           kata("║ Wellcome to Dark  Brutal Spam ║")
           kata("╚═══════════════════════════════╝")
-          kata('''Subscribe YT : MrRobot Framework''')
+          kata('''Subscribe YT : MrRobot Framework
+          join Telegram : MrRobot Corp
+          
+          Remember me!
+          No system is safe''')
           time.sleep(2)
           clear()
           vak('''
-\033[92;1m\033[91mGa Subscribe Auto Error''')
+\033[92;1m\033[91mSubscribe dulu channel saya biar lancar''')
           time.sleep (2)
           clear()
           kata("\033[91m╔═╦═╦╗╔═╦══╗╔═╦═╦══╦╦╗╔═╦╦╦╦╦═╗")
           kata("║╚╣║║║║║║║║║║╚╣║╠╗╔╣║║╚╗║║║║║║║")
           kata("\033[97m╠╗║╦║╚╣╦║║║║╠╗║╦║║║║║║╔╣║║║║║╦║")
           kata("╚═╩╩╩═╩╩╩╩╩╝╚═╩╩╝╚╝╚═╝╚═╩╩══╩╩╝")
-          kata("\033[92;1m sabar sebentar............")
-          kata("saya lagi berusaha........")
+          kata("\033[92;1m Mohon Tunggu............")
+          kata("Saya sedang berusaha........")
           kata("╔═╦╗───╔╗──╔═╗───────╔╗")
           kata("║═╣╚╦═╗║╚╦╦╣═╣╔═╗╔═╦╦╝╠═╗")
           kata("╠═║╔╣╬╚╣╔╣║╠═║║╬╚╣║║║╬║╬╚╦╦╗")
